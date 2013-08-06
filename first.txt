@@ -5,5 +5,9 @@
 <h2>File 1</h2>
 <p>Testing the file on github</p>
 <p>This will be the first commit on the github</p>
+<form method="post" action="submit">
+<input type="text" value="name" />
+<input type="password" value="password" />
+</form>
 </body>
 </html>
