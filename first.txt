@@ -8,6 +8,7 @@
 <form method="post" action="submit">
 <input type="text" value="name" />
 <input type="password" value="password" />
+<img src="abc.jpg" alt="first" />
 </form>
 </body>
 </html>
