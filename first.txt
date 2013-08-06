@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Git Test File</title>
+<body>
+<h2>File 1</h2>
+<p>Testing the file on github</p>
+</body>
+</html>
